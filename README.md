@@ -1,1 +1,2 @@
-# hw1---vfz5za
+## Team Members:
+- Kwanwoo Lee, vfz5za, CyberboyKai
