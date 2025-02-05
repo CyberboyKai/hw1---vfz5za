@@ -1,0 +1,29 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.gradle/
+.idea/
+build/
+out/
+*.jar
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA 관련 파일
+.idea/
+*.iml
+
+# 컴파일된 결과물 (실행 파일, 캐시, 로그)
+out/
+*.log
+*.class
+
+# 시스템에서 자동 생성하는 불필요한 파일
+.DS_Store  # Mac
+Thumbs.db  # Windows
+
+# JAR 실행 파일 (빌드된 결과물)
+*.jar
+*.war
+*.ear
